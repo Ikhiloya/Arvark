@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.loya.android.arvark.activities.WelcomeActivity">
+
+
+
+    <TextView
+        android:id="@+id/company_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="serif-monospace"
+        android:padding="0dp"
+        android:text="A r v a r k"
+        android:textAllCaps="true"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rental"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/company_name"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:fontFamily="serif-monospace"
+        android:padding="0dp"
+        android:text="Rentals"
+        android:textAllCaps="true"
+        android:textColor="#fff"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/welcome_sign_in_btn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rental"
+        android:layout_gravity="center"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="165dp"
+        android:background="@drawable/edit_text_background"
+        android:text="Sign in"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/welcome_sign_up"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="165dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_below="@+id/rental"
+        android:background="@drawable/edit_text_background2"
+        android:text="Sign Up"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/privacy_policy_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="Privacy Policy"
+        android:textColor="#fff"
+        android:textSize="14sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/company_name"
+        android:layout_alignStart="@+id/company_name" />
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="1dp"
+        android:layout_height="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@+id/privacy_policy_text"
+        android:layout_toRightOf="@+id/privacy_policy_text"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:id="@+id/terms_of_use_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/layout"
+        android:padding="4dp"
+        android:text="Terms of use"
+        android:textColor="#fff"
+        android:textSize="14sp" />
+
+</RelativeLayout>

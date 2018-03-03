@@ -1,0 +1,933 @@
+<resources>
+    <string name="app_name">Arvark</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+    </string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="ikhiloya">Ikhiloya</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="shopping_cart">shopping cart</string>
+    <string name="search">search</string>
+    <string name="favorite">favorite</string>
+    <string name="products">Products</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="remembered">Remembered?</string>
+    <string name="profile_name">Ikhiloya Imokhai</string>
+    <string name="company_name">Arvark Rentals</string>
+
+
+    <string name="array_states_in_nigeria">States in Nigeria</string>
+    <string name="abia">Abia</string>
+    <string name="adamawa">Adamawa</string>
+    <string name="akwa_ibom">Akwa Ibom</string>
+    <string name="anambra">Anambra</string>
+    <string name="bauchi">Bauchi</string>
+    <string name="bayelsa">Bayelsa</string>
+    <string name="benue">Benue</string>
+    <string name="bornu">Bornu</string>
+    <string name="cross_river">Cross River</string>
+    <string name="delta">Delta</string>
+    <string name="ebonyi">Ebonyi</string>
+    <string name="enugu">Enugu</string>
+    <string name="edo">Edo</string>
+    <string name="ekiti">Ekiti</string>
+    <string name="gombe">Gombe</string>
+    <string name="imo">Imo</string>
+    <string name="jigawa">Jigawa</string>
+    <string name="kaduna">Kaduna</string>
+    <string name="kano">Kano</string>
+    <string name="katsina">Katsina</string>
+    <string name="kebbi">Kebbi</string>
+    <string name="kogi">Kogi</string>
+    <string name="kwara">Kwara</string>
+    <string name="lagos">Lagos</string>
+    <string name="nasarawa">Nasarawa</string>
+    <string name="niger">Niger</string>
+    <string name="ogun">Ogun</string>
+    <string name="ondo">Ondo</string>
+    <string name="osun">Osun</string>
+    <string name="oyo">Oyo</string>
+    <string name="plateau">Plateau</string>
+    <string name="rivers">Rivers</string>
+    <string name="sokoto">Sokoto</string>
+    <string name="taraba">Taraba</string>
+    <string name="yobe">Yobe</string>
+    <string name="zamfara">Zamfara</string>
+    <string name="fct">FCT</string>
+
+    <!-- Abia-->
+    <string name="aba_north">Aba North</string>
+    <string name="aba_south">Aba South</string>
+    <string name="arochukwu">Arochukwu</string>
+    <string name="bende">Bende</string>
+    <string name="ikwuano">Ikwuano</string>
+    <string name="isiala_ngwa_north">Isiala Ngwa North</string>
+    <string name="isiala_ngwa_south">Isiala Ngwa South</string>
+    <string name="isuikwuato">Isuikwuato</string>
+    <string name="obi_ngwa">Obi Ngwa</string>
+    <string name="ohafia">Ohafia</string>
+    <string name="osisioma_ngwa">Osisioma Ngwa</string>
+    <string name="ugwunagbo">Ugwunagbo</string>
+    <string name="ukwa_east">Ukwa East</string>
+    <string name="ukwa_west">Ukwa West</string>
+    <string name="umuahia_north">Umuahia North</string>
+    <string name="umuahia_south">Umuahia South</string>
+    <string name="umu_nneochi">Umu Nneochi</string>
+
+
+    <!-- Adamawa-->
+    <string name="demsa">Demsa</string>
+    <string name="fufore">Fufore</string>
+    <string name="ganye">Ganye</string>
+    <string name="girei">Girei</string>
+    <string name="gombi">Gombi</string>
+    <string name="guyuk">Guyuk</string>
+    <string name="hong">Hong</string>
+    <string name="jada">Jada</string>
+    <string name="lamurde">Lamurde</string>
+    <string name="madagali">Madagali</string>
+    <string name="maiha">Maiha</string>
+    <string name="mayo_belwa">Mayo-Belwa</string>
+    <string name="michika">Michika</string>
+    <string name="mubi_north">Mubi North</string>
+    <string name="mubi_south">Mubi South</string>
+    <string name="numan">Numan</string>
+    <string name="shelleng">Shelleng</string>
+    <string name="song">Song</string>
+    <string name="toungo">Toungo</string>
+    <string name="yola_north">Yola North</string>
+    <string name="yola_south">Yola South</string>
+
+    <!-- Akwa Ibom-->
+    <string name="abak">Abak</string>
+    <string name="eastern_obolo">Eastern Obolo</string>
+    <string name="eket">Eket</string>
+    <string name="esit_eket">Esit-Eket</string>
+    <string name="essien_udim">Essien Udim</string>
+    <string name="etim_ekpo">Etim-Ekpo</string>
+    <string name="etinan">Etinan</string>
+    <string name="ibeno">Ibeno</string>
+    <string name="ibesikpo_asutan">Ibesikpo-Asutan</string>
+    <string name="ibiono_ibom">Ibiona-Ibom</string>
+    <string name="ika">Ika</string>
+    <string name="ikono">Ikono</string>
+    <string name="ikot_abasi">Ikot Abasi</string>
+    <string name="ikot_ekpene">Ikot Ekpene</string>
+    <string name="ini">Ini</string>
+    <string name="itu">Itu</string>
+    <string name="mbo">Mbo</string>
+    <string name="mkpat_enin">Mkpat-Enin</string>
+    <string name="nsit_atai">Nsit-Atai</string>
+    <string name="nsit_ibom">Nsit-Ibom</string>
+    <string name="nsit_ubuim">Nsit-Ubuim</string>
+    <string name="obot_akara">Obot-Akara</string>
+    <string name="okobo">Okobo</string>
+    <string name="onna">Onna</string>
+    <string name="oron">Oron</string>
+    <string name="oruk_anam">Oruk-Anam</string>
+    <string name="ukanafun">Ukanafun</string>
+    <string name="udung_uko">Udung-Uko</string>
+    <string name="uruan">Uruan</string>
+    <string name="urue_offiong_oruko">Urue-Offiong/Oruko</string>
+    <string name="uyo">Uyo</string>
+
+    <!-- Anambra-->
+    <string name="aguata">Aguata</string>
+    <string name="anambra_east">Anambra East</string>
+    <string name="anambra_west">Anambra West</string>
+    <string name="anaocha">Anaocha</string>
+    <string name="awka_north">Awka North</string>
+    <string name="awka_south">Awka South</string>
+    <string name="ayamelum">Ayamelum</string>
+    <string name="dunukofia">Dunukofia</string>
+    <string name="ekwusigo">Ekwusigo</string>
+    <string name="idemili_north">Idemili North</string>
+    <string name="idemili_south">Idemili South</string>
+    <string name="ihiala">Ihiala</string>
+    <string name="njikoka">Njikoka</string>
+    <string name="nnewi_north">Nnewi North</string>
+    <string name="nnewi_south">Nnewi South</string>
+    <string name="ogbaru">Ogbaru</string>
+    <string name="onitsha_north">Onitsha North</string>
+    <string name="onitsha_south">Onitsha South</string>
+    <string name="orumba_north">Orumba North</string>
+    <string name="orumba_south">Orumba South</string>
+    <string name="oyi">Oyi</string>
+
+
+    <!-- Bauchi-->
+    <string name="alkaleri">Alkaleri</string>
+    <string name="bogoro">Bogoro</string>
+    <string name="damban">Damban</string>
+    <string name="darazo">Darazo</string>
+    <string name="dass">Dass</string>
+    <string name="gamawa">Gamawa</string>
+    <string name="ganjuwa">Ganjuwa</string>
+    <string name="giade">Giade</string>
+    <string name="itas_gadau">Itas/Gadau</string>
+    <string name="jama_are">Jama\'are</string>
+    <string name="katagum">Katagum</string>
+    <string name="kirfi">Kirfi</string>
+    <string name="misau">Misau</string>
+    <string name="ningi">Ningi</string>
+    <string name="shira">Shira</string>
+    <string name="tafawa_balewa">Tafawa Balewa</string>
+    <string name="toro">Toro</string>
+    <string name="warji">Warji</string>
+    <string name="zaki">Zaki</string>
+
+    <!-- Bayelsa-->
+    <string name="brass">Brass</string>
+    <string name="ekeremor">Ekeremor</string>
+    <string name="kolokuma_okpokuma">Kolokuma/Okpokuma</string>
+    <string name="nembe">Nembe</string>
+    <string name="ogbia">Ogbia</string>
+    <string name="sagbama">Sagbama</string>
+    <string name="southern_ijaw">Southern Ijaw</string>
+    <string name="yenegoa">Yenegoa</string>
+
+    <!-- Benue-->
+    <string name="agatu">Agatu</string>
+    <string name="apa">Apa</string>
+    <string name="ado">Ado</string>
+    <string name="buruku">Buruku</string>
+    <string name="gboko">Gboko</string>
+    <string name="guma">Guma</string>
+    <string name="gwer_east">Gwer East</string>
+    <string name="gwer_west">Gwer West</string>
+    <string name="katsina_ala">Katsina-Ala</string>
+    <string name="konshisha">Konshisha</string>
+    <string name="kwande">Kwande</string>
+    <string name="logo">Logo</string>
+    <string name="makurdi">Makurdi</string>
+    <string name="obi">Obi</string>
+    <string name="ogbadibo">Ogbadibo</string>
+    <string name="ohimini">Ohimini</string>
+    <string name="oju">Oju</string>
+    <string name="okpokwu">Okpokwu</string>
+    <string name="oturkpo">Oturkpo</string>
+    <string name="tarka">Tarka</string>
+    <string name="ukum">Ukum</string>
+    <string name="ushongo">Ushongo</string>
+    <string name="vandeikya">Vandeikya</string>
+
+    <!-- Bornu -->
+    <string name="abadam">Abadam</string>
+    <string name="askira_uba">Askira/Uba</string>
+    <string name="bama">Bama</string>
+    <string name="bayo">Bayo</string>
+    <string name="biu">Biu</string>
+    <string name="chibok">Chibok</string>
+    <string name="damboa">Damboa</string>
+    <string name="dikwa">Dikwa</string>
+    <string name="gubio">Gubio</string>
+    <string name="guzamala">Guzamala</string>
+    <string name="gwoza">Gwoza</string>
+    <string name="hawul">Hawul</string>
+    <string name="jere">Jere</string>
+    <string name="kaga">Kaga</string>
+    <string name="kala_balge">Kala/Balge</string>
+    <string name="konduga">Konduga</string>
+    <string name="kukawa">Kukawa</string>
+    <string name="kwaya_kusar">Kwaya Kusar</string>
+    <string name="mafa">Mafa</string>
+    <string name="magumeri">Magumeri</string>
+    <string name="maiduguri">Maiduguri</string>
+    <string name="marte">Marte</string>
+    <string name="mobbar">Mobbar</string>
+    <string name="monguno">Monguno</string>
+    <string name="ngala">Ngala</string>
+    <string name="ngazai">Ngazai</string>
+    <string name="shani">Shani</string>
+
+    <!-- Cross River-->
+    <string name="abi">Abi</string>
+    <string name="akamkpa">Akamkpa</string>
+    <string name="akpabuyo">Akpabuyo</string>
+    <string name="bakassi">Bakassi</string>
+    <string name="bekwarra">Bekwarra</string>
+    <string name="biase">Biase</string>
+    <string name="boki">Boki</string>
+    <string name="calabar_municipal">Calabar Municipal</string>
+    <string name="calabar_south">Calabar South</string>
+    <string name="etung">Etung</string>
+    <string name="ikom">Ikom</string>
+    <string name="obanliku">Obanliku</string>
+    <string name="obubra">Obubra</string>
+    <string name="obudu">Obudu</string>
+    <string name="odukpani">Odukpani</string>
+    <string name="ogoja">Ogoja</string>
+    <string name="yakuur">Yakuur</string>
+    <string name="yala">Yala</string>
+
+    <!-- Delta-->
+    <string name="aniocha_north">Aniocha North</string>
+    <string name="aniocha_south">Aniocha South</string>
+    <string name="bomadi">Bomadi</string>
+    <string name="burutu">Burutu</string>
+    <string name="ethiope_east">Ethiope East</string>
+    <string name="ethiope_west">Ethiope West</string>
+    <string name="ika_north_east">Ika North East</string>
+    <string name="ika_south">Ika South</string>
+    <string name="isoko_north">Isoko North</string>
+    <string name="isoko_south">Isoko South</string>
+    <string name="ndokwa_east">Ndokwa East</string>
+    <string name="ndokwa_west">Ndokwa West</string>
+    <string name="okpe">Okpe</string>
+    <string name="oshimili_north">Oshimili North</string>
+    <string name="oshimili_south">Oshimili South</string>
+    <string name="patani">Patani</string>
+    <string name="sapele">Sapele</string>
+    <string name="udu">Udu</string>
+    <string name="ughelli_north">Ughelli North</string>
+    <string name="ughelli_south">Ughelli South</string>
+    <string name="ukwuani">Ukwuani</string>
+    <string name="uvwie">Uvwie</string>
+    <string name="warri_north">Warri North</string>
+    <string name="warri_south">Warri South</string>
+    <string name="warri_south_west">Warri South West</string>
+
+    <!-- Ebonyi-->
+    <string name="abakaliki">Abakaliki</string>
+    <string name="afikpo_north">Afikpo North</string>
+    <string name="afikpo_south">Afikpo South</string>
+    <string name="ezza_north">Ezza North</string>
+    <string name="ezza_south">Ezza South</string>
+    <string name="ikwo">Ikwo</string>
+    <string name="ishielu">Ishielu</string>
+    <string name="ivo">Ivo</string>
+    <string name="izzi">Izzi</string>
+    <string name="ohaozara">Ohaozara</string>
+    <string name="ohaukwu">Ohaukwu</string>
+    <string name="onicha">Onicha</string>
+
+    <!-- Edo-->
+    <string name="akoko_edo">Akoko-Edo</string>
+    <string name="egor">Egor</string>
+    <string name="esan_central">Esan Central</string>
+    <string name="esan_north_east">Esan North-East</string>
+    <string name="esan_south_east">Esan South-East</string>
+    <string name="esan_west">Esan West</string>
+    <string name="etsako_central">Etsako Central</string>
+    <string name="etsako_east">Etsako East</string>
+    <string name="etsako_west">Etsako West</string>
+    <string name="igueben">Igueben</string>
+    <string name="ikpoba_okha">Ikpoba Okha</string>
+    <string name="orhionmwon">Orhionmwon</string>
+    <string name="oredo">Oredo</string>
+    <string name="ovia_north_east">Ovia North-East</string>
+    <string name="ovia_south_west">Ovia South-West</string>
+    <string name="owan_east">Owan East</string>
+    <string name="owan_west">Owan West</string>
+    <string name="uhunmwonde">Uhunmwonde</string>
+
+    <!-- Ekiti-->
+    <string name="ado_ekiti">Ado Ekiti</string>
+    <string name="efon">Efon</string>
+    <string name="ekiti_east">Ekiti East</string>
+    <string name="ekiti_south_west">Ekiti South West</string>
+    <string name="ekiti_west">Ekiti West</string>
+    <string name="emure">Emure</string>
+    <string name="gbonyin">Gbonyin</string>
+    <string name="ido_osi">Ido Osi</string>
+    <string name="ijero">Ijero</string>
+    <string name="ikere">Ikere</string>
+    <string name="ikole">Ikole</string>
+    <string name="ilejemeje">Ilejemeje</string>
+    <string name="irepodun_ifelodun">Irepodun/Ifelodun</string>
+    <string name="ise_orun">Ise/Orun</string>
+    <string name="moba">Moba</string>
+    <string name="oye">Oye</string>
+
+    <!-- Enugu-->
+    <string name="aninri">Aninri</string>
+    <string name="awgu">Awgu</string>
+    <string name="enugu_east">Enugu East</string>
+    <string name="enugu_north">Enugu North</string>
+    <string name="enugu_south">Enugu South</string>
+    <string name="ezeagu">Ezeagu</string>
+    <string name="igbo_etiti">Igbo Etiti</string>
+    <string name="igbo_eze_north">Igbo Eze North</string>
+    <string name="igbo_eze_south">Igbo Eze South</string>
+    <string name="isi_uzo">Isi Uzo</string>
+    <string name="nkanu_east">Nkanu East</string>
+    <string name="nkanu_west">Nkanu West</string>
+    <string name="nsukka">Nsukka</string>
+    <string name="oji_river">Oji River</string>
+    <string name="udenu">Udenu</string>
+    <string name="udi">Udi</string>
+    <string name="uzo_uwani">Uzo Uwani</string>
+
+    <!-- FCT-->
+    <string name="abaji">Abaji</string>
+    <string name="bwari">Bwari</string>
+    <string name="gwagwalada">Gwagwalada</string>
+    <string name="kuje">Kuje</string>
+    <string name="kwali">Kwali</string>
+    <string name="municipal_area_council">Minicipal Area Council</string>
+
+    <!-- Gombe-->
+    <string name="akko">Akko</string>
+    <string name="balanga">Balanga</string>
+    <string name="billiri">Billiri</string>
+    <string name="dukku">Dukku</string>
+    <string name="funakaye">Funakaye</string>
+    <string name="kaltungo">Kaltungo</string>
+    <string name="kwami">Kwami</string>
+    <string name="nafada">Nafada</string>
+    <string name="shongom">Shongom</string>
+    <string name="yamaltu_delba">Yamaltu/Deba</string>
+
+    <!-- Imo-->
+    <string name="abo_mbaise">Aboh Mbaise</string>
+    <string name="ahiazu_mbaise">Ahiazu Mbaise</string>
+    <string name="ehime_mbano">Ehime Mbano</string>
+    <string name="ezinihitte">Ezinihitte</string>
+    <string name="ideato_north">Ideato North</string>
+    <string name="ideato_south">Ideato South</string>
+    <string name="ihitte_uboma">Ihitte/Uboma</string>
+    <string name="ikeduru">Ikeduru</string>
+    <string name="isiala_mbano">Isiala Mbano</string>
+    <string name="isu">Isu</string>
+    <string name="mbaitoli">Mbaitoli</string>
+    <string name="ngor_okpala">Ngor Okpala</string>
+    <string name="njaba">Njaba</string>
+    <string name="nkwerre">Nkwerre</string>
+    <string name="nwangele">Nwangele</string>
+    <string name="obowo">Obowo</string>
+    <string name="oguta">Oguta</string>
+    <string name="ohaji_egbema">Ohaji/Egbema</string>
+    <string name="okigwe">Okigwe</string>
+    <string name="orlu">Orlu</string>
+    <string name="orsu">Orsu</string>
+    <string name="oru_east">Oru East</string>
+    <string name="oru_west">Oru West</string>
+    <string name="owerri_municipal">Owerri Municipal</string>
+    <string name="owerri_north">Owerri North</string>
+    <string name="owerri_west">Owerri West</string>
+    <string name="unuimo">Unuimo</string>
+
+
+    <!--Jigawa-->
+    <string name="auyo">Auyo</string>
+    <string name="babura">Babura</string>
+    <string name="biriniwa">Biriniwa</string>
+    <string name="birnin_kudu">Birnin Kudu</string>
+    <string name="buji">Buji</string>
+    <string name="dutse">Dutse</string>
+    <string name="gagarawa">Gagarawa</string>
+    <string name="garki">Garki</string>
+    <string name="gumel">Gumel</string>
+    <string name="guri">Guri</string>
+    <string name="gwaram">Gwaram</string>
+    <string name="gwiwa">Gwiwa</string>
+    <string name="hadejia">Hadejia</string>
+    <string name="jahun">Jahun</string>
+    <string name="kafin_hausa">Kafin Hausa</string>
+    <string name="kazaure">Kazaure</string>
+    <string name="kiri_kasama">Kiri kasama</string>
+    <string name="kiyawa">Kiyawa</string>
+    <string name="kaugama">Kaugama</string>
+    <string name="maigatari">Maigatari</string>
+    <string name="malam_madori">Malam Madori</string>
+    <string name="miga">Miga</string>
+    <string name="ringim">Ringim</string>
+    <string name="roni">Roni</string>
+    <string name="sule_tankarkar">Sule Tankarkar</string>
+    <string name="taura">Taura</string>
+    <string name="yankwashi">Yankwashi</string>
+
+    <!--Kaduna-->
+    <string name="birnin_gwari">Birnin Gwari</string>
+    <string name="chikun">Chikun</string>
+    <string name="giwa">Giwa</string>
+    <string name="igabi">Igabi</string>
+    <string name="ikara">Ikara</string>
+    <string name="jaba">Jaba</string>
+    <string name="jema">Jema\'a</string>
+    <string name="kachia">Kachia</string>
+    <string name="kaduna_north">Kaduna North</string>
+    <string name="kaduna_south">Kaduna South</string>
+    <string name="kagarko">Kagarko</string>
+    <string name="kajuru">Kajuru</string>
+    <string name="kaura">Kaura</string>
+    <string name="kauru">Kauru</string>
+    <string name="kubau">Kubau</string>
+    <string name="kudan">Kudan</string>
+    <string name="lere">Lere</string>
+    <string name="makarfi">Makarfi</string>
+    <string name="sabon_gari">Sabon Gari</string>
+    <string name="sanga">Sanga</string>
+    <string name="soba">Soba</string>
+    <string name="zangon_kataf">Zangon Kataf</string>
+    <string name="zaria">Zaria</string>
+
+    <!--Kano-->
+    <string name="ajingi">Ajingi</string>
+    <string name="albasu">Albasu</string>
+    <string name="bagwai">Bagwai</string>
+    <string name="bebeji">Bebeji</string>
+    <string name="bichi">Bichi</string>
+    <string name="bunkure">Bunkure</string>
+    <string name="dala">Dala</string>
+    <string name="dambatta">Dambatta</string>
+    <string name="dawakin_kudu">Dawakin Kudu</string>
+    <string name="dawakin_tofa">Dawakin Tofa</string>
+    <string name="doguwa">Doguwa</string>
+    <string name="fagge">Fagge</string>
+    <string name="gabasawa">Gabasawa</string>
+    <string name="garko">Garko</string>
+    <string name="garun_mallam">Garun Mallam</string>
+    <string name="gaya">Gaya</string>
+    <string name="gezawa">Gezawa</string>
+    <string name="gwale">Gwale</string>
+    <string name="gwarzo">Gwarzo</string>
+    <string name="kabo">Kabo</string>
+    <string name="kano_municipal">Kano Municipal</string>
+    <string name="karaye">Karaye</string>
+    <string name="kibiya">Kibiya</string>
+    <string name="kiru">Kiru</string>
+    <string name="kumbotso">Kumbotso</string>
+    <string name="kunchi">Kunchi</string>
+    <string name="kura">Kura</string>
+    <string name="madobi">Madobi</string>
+    <string name="makoda">Makoda</string>
+    <string name="minjibir">Minjibir</string>
+
+    <string name="rano">Rano</string>
+    <string name="rimin_gado">Rimin Gado</string>
+    <string name="rogo">Rogo</string>
+    <string name="shanono">Shanono</string>
+    <string name="sumaila">Sumaila</string>
+    <string name="takai">Takai</string>
+    <string name="tarauni">Tarauni</string>
+    <string name="tofa">Tofa</string>
+    <string name="tsanyawa">Tsanyawa</string>
+    <string name="tudun_wada">Tudun Wada</string>
+    <string name="ungogo">Ungogo</string>
+    <string name="warawa">Warawa</string>
+    <string name="wudil">Wudil</string>
+
+    <!--Katsina-->
+    <string name="bakori">Bakori</string>
+    <string name="batagarawa">Batagarawa</string>
+    <string name="batsari">Batsari</string>
+    <string name="baure">Baure</string>
+    <string name="bindawa">Bindawa</string>
+    <string name="charanchi">Charanchi</string>
+    <string name="dandume">Dandume</string>
+    <string name="danja">Danja</string>
+    <string name="dan_musa">Dan Musa</string>
+    <string name="daura">Daura</string>
+    <string name="dutsi">Dutsi</string>
+    <string name="dutsin_ma">Dutsin Ma</string>
+    <string name="faskari">Faskari</string>
+    <string name="funtua">Funtua</string>
+    <string name="ingawa">Ingawa</string>
+    <string name="jibia">Jibia</string>
+    <string name="kafur">Kafur</string>
+    <string name="kaita">Kaita</string>
+    <string name="kankara">Kankara</string>
+    <string name="kankia">Kankia</string>
+
+    <string name="kurfi">Kurfi</string>
+    <string name="kusada">Kusada</string>
+    <string name="mai_adua">Mai\'Adua</string>
+    <string name="malumfashi">Malumfashi</string>
+    <string name="mani">Mani</string>
+    <string name="mashi">Mashi</string>
+    <string name="matazu">Matazu</string>
+    <string name="musawa">Musawa</string>
+    <string name="rimi">Rimi</string>
+    <string name="sabuwa">Sabuwa</string>
+    <string name="safana">Safana</string>
+    <string name="sandamu">Sandamu</string>
+    <string name="zango">Zango</string>
+
+    <!--Kebbi-->
+    <string name="aleiro">Aleiro</string>
+    <string name="arewa_dandi">Arewa Dandi</string>
+    <string name="argungu">Argungu</string>
+    <string name="augie">Augie</string>
+    <string name="bagudo">Bagudo</string>
+    <string name="birnin_kebbi">Birnin Kebbi</string>
+    <string name="bunza">Bunza</string>
+    <string name="dandi">Dandi</string>
+    <string name="fakai">Fakai</string>
+    <string name="gwandu">Gwandu</string>
+    <string name="jega">Jega</string>
+    <string name="kalgo">Kalgo</string>
+    <string name="koko_besse">Koko/Besse</string>
+    <string name="maiyama">Maiyama</string>
+    <string name="ngaski">Ngaski</string>
+    <string name="sakaba">Sakaba</string>
+    <string name="shanga">Shanga</string>
+    <string name="suru">Suru</string>
+    <string name="wasagu_danko">Wasagu/Danko</string>
+    <string name="yauri">Yauri</string>
+    <string name="zuru">Zuru</string>
+
+    <!--Kogi-->
+    <string name="adavi">Adavi</string>
+    <string name="ajaokuta">Ajaokuta</string>
+    <string name="ankpa">Ankpa</string>
+
+    <string name="dekina">Dekina</string>
+    <string name="ibaji">Ibaji</string>
+    <string name="idah">Idah</string>
+    <string name="igalamela_odolu">Igalamela Odolu</string>
+    <string name="ijumu">Ijumu</string>
+    <string name="kabba_bunu">Kabba/Bunu</string>
+    <string name="lokoja">Lokoja</string>
+    <string name="mopa_muro">Mopa Muro</string>
+    <string name="ofu">Ofu</string>
+    <string name="ogori_magongo">Ogori/Magongo</string>
+    <string name="okehi">Okehi</string>
+    <string name="okene">Okene</string>
+    <string name="olamaboro">Olamaboro</string>
+    <string name="omala">Omala</string>
+    <string name="yagba_east">Yagba East</string>
+    <string name="yagba_west">Yagba West</string>
+
+    <!--Kwara-->
+    <string name="asa">Asa</string>
+    <string name="baruten">Baruten</string>
+    <string name="edu">Edu</string>
+
+    <string name="ifelodun">Ifelodun</string>
+    <string name="illorin_east">Ilorin East</string>
+    <string name="illorin_south">Ilorin South</string>
+    <string name="illorin_west">Ilorin West</string>
+    <string name="irepodun">Irepodun</string>
+    <string name="isin">Isin</string>
+    <string name="kaiama">Kaiama</string>
+    <string name="moro">Moro</string>
+    <string name="offa">Offa</string>
+    <string name="oke_ero">Oke Ero</string>
+    <string name="oyun">Oyun</string>
+    <string name="pategi">Pategi</string>
+
+    <!--Lagos-->
+    <string name="agege">Agege</string>
+    <string name="ajeromi_ifelodun">Ajeromi-Ifelodun</string>
+    <string name="alimosho">Alimosho</string>
+    <string name="amuwo_odofin">Amuwo-Odofin</string>
+    <string name="apapa">Apapa</string>
+    <string name="badagry">Badagry</string>
+    <string name="epe">Epe</string>
+    <string name="eti_osa">Eti Osa</string>
+    <string name="ibeju_lekki">Ibeju-Lekki</string>
+    <string name="ifako_ijaiye">Ifako-Ijaiye</string>
+    <string name="ikeja">Ikeja</string>
+    <string name="ikorodu">Ikorodu</string>
+    <string name="kosofe">Kosofe</string>
+    <string name="lagos_island">Lagos Island</string>
+    <string name="lagos_mainland">Lagos Mainland</string>
+    <string name="mushin">Mushin</string>
+    <string name="ojo">Ojo</string>
+    <string name="oshodi_isolo">Oshodi-Isolo</string>
+    <string name="shomolu">Shomolu</string>
+    <string name="surulere">Surulere</string>
+
+
+    <!--Nasarawa-->
+    <string name="akwanga">Akwanga</string>
+    <string name="awe">Awe</string>
+    <string name="doma">Doma</string>
+    <string name="karu">Karu</string>
+    <string name="keana">Keana</string>
+    <string name="keffi">Keffi</string>
+    <string name="kokoma">Kokona</string>
+    <string name="lafia">Lafia</string>
+
+    <string name="nasarawa_egon">Nasarawa Egon</string>
+
+    <string name="toto">Toto</string>
+    <string name="wamba">Wamba</string>
+
+    <!--Niger-->
+    <string name="agaie">Agaie</string>
+    <string name="agwara">Agwara</string>
+    <string name="bida">Bida</string>
+    <string name="borgu">Borgu</string>
+    <string name="bosso">Bosso</string>
+    <string name="chanahaga">Chanchaga</string>
+    <string name="edati">Edati</string>
+    <string name="gbako">Gbako</string>
+    <string name="gurara">Gurara</string>
+    <string name="katcha">Katcha</string>
+    <string name="kontagora">Kontagora</string>
+    <string name="lapai">Lapai</string>
+    <string name="lavun">Lavun</string>
+    <string name="magama">Magama</string>
+    <string name="mariga">Mariga</string>
+    <string name="mashegu">Mashegu</string>
+    <string name="mokwa">Mokwa</string>
+    <string name="moya">Moya</string>
+    <string name="paikoro">Paikoro</string>
+    <string name="rafi">Rafi</string>
+    <string name="rijau">Rijau</string>
+    <string name="shiroro">Shiroro</string>
+    <string name="suleja">Suleja</string>
+    <string name="tafa">Tafa</string>
+    <string name="wushishi">Wushishi</string>
+
+    <!-- Ogun-->
+    <string name="abeokuta_north">Abeokuta North</string>
+    <string name="abeokuta_south">Abeokuta South</string>
+    <string name="ado_odo_ota">Ado-Odo/Ota</string>
+    <string name="egbado_north">Egbado North</string>
+    <string name="egbado_south">Egbado South</string>
+    <string name="ewekoro">Ewekoro</string>
+    <string name="ifo">Ifo</string>
+    <string name="ijebu_east">Ijebu East</string>
+    <string name="ijebu_north">Ijebu North</string>
+    <string name="ijebu_north_east">Ijebu North East</string>
+    <string name="ijebu_ode">Ijebu Ode</string>
+    <string name="ikenne">Ikenne</string>
+    <string name="imeko_afon">Imeko Afon</string>
+    <string name="ipokia">Ipokia</string>
+    <string name="obafemi_owode">Obafemi Owode</string>
+    <string name="odeda">Odeda</string>
+    <string name="odogbolu">Odogbolu</string>
+    <string name="ogun_waterside">Ogun Waterside</string>
+    <string name="remo_north">Remo North</string>
+    <string name="shagamu">Shagamu</string>
+
+    <!--Ondo -->
+    <string name="akoko_north_east">Akoko North-East</string>
+    <string name="akoko_north_west">Akoko North-West</string>
+    <string name="akoko_south_west">Akoko South-West</string>
+    <string name="akoko_south_east">Akoko South-East</string>
+    <string name="akure_north">Akure North</string>
+    <string name="akure_south">Akure South</string>
+    <string name="ese_odo">Ese Odo</string>
+    <string name="idanre">Idanre</string>
+    <string name="ifedore">Ifedore</string>
+    <string name="ilaje">Ilaje</string>
+    <string name="ile_oluji_okeigbo">Ile Oluji/Okeigbo</string>
+    <string name="irele">Irele</string>
+    <string name="odigbo">Odigbo</string>
+    <string name="okitipupa">Okitipupa</string>
+    <string name="ondo_east">Ondo East</string>
+    <string name="ondo_west">Ondo West</string>
+    <string name="ose">Ose</string>
+    <string name="owo">Owo</string>
+
+    <!--Osun -->
+    <string name="atakunmosa_east">Atakunmosa East</string>
+    <string name="atakunmosa_west">Atakunmosa West</string>
+    <string name="aiyedaade">Aiyedaade</string>
+    <string name="aiyedire">Aiyedire</string>
+    <string name="boluwaduro">Boluwaduro</string>
+    <string name="boripe">Boripe</string>
+    <string name="ede_north">Ede North</string>
+    <string name="ede_south">Ede South</string>
+    <string name="ife_central">Ife Central</string>
+    <string name="ife_east">Ife East</string>
+    <string name="ife_north">Ife North</string>
+    <string name="ife_south">Ife South</string>
+    <string name="egbedore">Egbedore</string>
+    <string name="ejigbo">Ejigbo</string>
+    <string name="ifedayo">Ifedayo</string>
+
+    <string name="ila">Ila</string>
+    <string name="ilesa_east">Ilesa East</string>
+    <string name="ilesa_west">Ilesa West</string>
+
+    <string name="irewole">Irewole</string>
+    <string name="isokan">Isokan</string>
+    <string name="iwo">Iwo</string>
+    <string name="obokun">Obokun</string>
+    <string name="odo_otin">Odo Otin</string>
+    <string name="ola_oluwa">Ola Oluwa</string>
+    <string name="olorunda">Olorunda</string>
+    <string name="oriade">Oriade</string>
+    <string name="orolu">Orolu</string>
+    <string name="osogbo">Osogbo</string>
+
+
+    <!--Oyo -->
+    <string name="afijio">Afijio</string>
+    <string name="akinyele">Akinyele</string>
+    <string name="atiba">Atiba</string>
+    <string name="atisbo">Atisbo</string>
+    <string name="egbeda">Egbeda</string>
+    <string name="ibadan_north">Ibadan North</string>
+    <string name="ibadan_north_east">Ibadan North-East</string>
+    <string name="ibadan_north_west">Ibadan North-West</string>
+    <string name="ibadan_south_east">Ibadan South-East</string>
+    <string name="ibadan_south_west">Ibadan South-West</string>
+    <string name="ibarapa_central">Ibarapa Central</string>
+    <string name="ibarapa_east">Ibarapa East</string>
+    <string name="ibarapa_north">Ibarapa North</string>
+    <string name="ido">Ido</string>
+    <string name="irepo">Irepo</string>
+    <string name="iseyin">Iseyin</string>
+    <string name="itesiwaju">Itesiwaju</string>
+    <string name="iwajowa">Iwajowa</string>
+    <string name="kajola">Kajola</string>
+    <string name="lagelu">Lagelu</string>
+    <string name="ogbomosho_north">Ogbomosho North</string>
+    <string name="ogbomosho_south">Ogbomosho South</string>
+    <string name="ogo_oluwa">Ogo Oluwa</string>
+    <string name="olorunsogo">Olorunsogo</string>
+    <string name="oluyole">Oluyole</string>
+    <string name="ona_ara">Ona Ara</string>
+    <string name="orelope">Orelope</string>
+    <string name="ori_ire">Ori Ire</string>
+
+    <string name="oyo_east">Oyo East</string>
+    <string name="saki_east">Saki East</string>
+    <string name="saki_west">Saki West</string>
+
+
+    <!--Plateau-->
+    <string name="bokkos">Bokkos</string>
+    <string name="barkin_ladi">Barkin Ladi</string>
+    <string name="bassa">Bassa</string>
+    <string name="jos_east">Jos East</string>
+    <string name="jos_north">Jos North</string>
+    <string name="jos_south">Jos South</string>
+    <string name="kanam">Kanam</string>
+    <string name="kanke">kanke</string>
+    <string name="langtang_south">Langtang South</string>
+    <string name="langtang_north">Langtang North</string>
+    <string name="mangu">Mangu</string>
+    <string name="mikang">Mikang</string>
+    <string name="pankshin">Pankshin</string>
+    <string name="quaan_pan">Qua\'an Pan</string>
+    <string name="riyom">Riyom</string>
+    <string name="shendam">Shendam</string>
+    <string name="wase">Wase</string>
+
+
+    <!--Rivers -->
+    <string name="abua_odual">Abua/Odual</string>
+    <string name="ahoada_east">Ahoada East</string>
+    <string name="ahoada_west">Ahoada West</string>
+    <string name="akuku_toru">Akuku-Toru</string>
+    <string name="andoni">Andoni</string>
+    <string name="asari_toru">Asari-Toru</string>
+    <string name="bonnny">Bonny</string>
+    <string name="degema">Degema</string>
+    <string name="eleme">Eleme</string>
+    <string name="emuoha">Emuoha</string>
+    <string name="etche">Etche</string>
+    <string name="gokana">Gokana</string>
+    <string name="ikwerre">Ikwerre</string>
+    <string name="khana">Khana</string>
+    <string name="obio_akpor">Obio/Akpor</string>
+    <string name="ogba_egbema_ndoni">Ogba/Egbema/Ndoni</string>
+    <string name="ogu_bolo">Ogu/Bolo</string>
+    <string name="okrika">Okrika</string>
+    <string name="omuma">Omuma</string>
+    <string name="opobo_nkoro">Opobo/Nkoro</string>
+    <string name="oyigbo">Oyigbo</string>
+    <string name="port_jharcourt">Port Harcourt</string>
+    <string name="tai">Tai</string>
+
+
+    <!--Sokoto -->
+    <string name="binji">Binji</string>
+    <string name="bodinga">Bodinga</string>
+    <string name="dange_shuni">Dange Shuni</string>
+    <string name="gada">Gada</string>
+    <string name="goronyo">Goronyo</string>
+    <string name="gudu">Gudu</string>
+    <string name="gwadabawa">Gwadabawa</string>
+    <string name="illela">Illela</string>
+    <string name="isa">Isa</string>
+    <string name="kebbe">Kebbe</string>
+    <string name="kware">Kware</string>
+    <string name="rabah">Rabah</string>
+    <string name="sabon_birni">Sabon Birni</string>
+    <string name="shagari">Shagari</string>
+    <string name="silame">Silame</string>
+    <string name="sokoto_north">Sokoto North</string>
+    <string name="sokoto_south">Sokoto South</string>
+    <string name="tambuwal">Tambuwal</string>
+    <string name="tangaza">Tangaza</string>
+    <string name="tureta">Tureta</string>
+    <string name="wamako">wamako</string>
+    <string name="wurno">Wurno</string>
+    <string name="yabo">Yabo</string>
+
+
+    <!--Taraba -->
+    <string name="ardo_kola">Ardo Kola</string>
+    <string name="bali">Bali</string>
+    <string name="donga">Donga</string>
+    <string name="gashaka">Gashaka</string>
+    <string name="gassol">Gassol</string>
+    <string name="ibi">Ibi</string>
+    <string name="jalingo">Jalingo</string>
+    <string name="karim_lamido">Karim Lamido</string>
+    <string name="kumi">Kumi</string>
+    <string name="lau">lau</string>
+    <string name="sardauna">Sardauna</string>
+    <string name="takum">Takum</string>
+    <string name="ussa">Ussa</string>
+    <string name="wukari">Wukari</string>
+    <string name="yorro">Yorro</string>
+    <string name="zing">Zing</string>
+
+    <!--Yobe -->
+    <string name="bade">Bade</string>
+    <string name="bursari">Bursari</string>
+    <string name="damaturu">Damaturu</string>
+    <string name="fika">Fika</string>
+    <string name="fune">Fune</string>
+    <string name="geidam">Geidam</string>
+    <string name="gujba">Gujba</string>
+    <string name="gulani">Gulani</string>
+    <string name="jakusko">Jakusko</string>
+    <string name="karasuwa">Karasuwa</string>
+    <string name="machina">Machina</string>
+    <string name="nangere">Nangere</string>
+    <string name="nguru">Nguru</string>
+    <string name="potiskum">Potiskum</string>
+    <string name="tarmuwa">Tarmuwa</string>
+    <string name="yunusari">Yunusari</string>
+    <string name="yusufari">yusufari</string>
+
+    <!-- Zamfara-->
+    <string name="anka">Anka</string>
+    <string name="bakura">Bakura</string>
+    <string name="birnin_magali_kiyaw">Birnin magaji/kiyaw</string>
+    <string name="bukkuyum">Bukkuyum</string>
+    <string name="bungudu">Bungudu</string>
+    <string name="gummi">Gummi</string>
+    <string name="gusau">Gusau</string>
+    <string name="kaura_namoda">Kaura Namoda</string>
+    <string name="Maradun">Maradun</string>
+    <string name="maru">Maru</string>
+    <string name="shinkafi">Shinkafi</string>
+    <string name="talata_mafara">Talata Mafara</string>
+    <string name="chafe">Chafe</string>
+    <string name="zurmi">Zurmi</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+</resources>
